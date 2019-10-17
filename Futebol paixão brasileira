@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<title> Atividade </title>
+	<meta charset="utf-8">
+     </head>
+    
+     <style>
+  
+            #navgeral{
+            display: flex; /*nosso container será flex*/
+            flex-direction: column;/*direção do conteúdo*/
+            align-items: center;/*Alinhamento dos itens*/
+            background-color: #19282B; /*cor de fundo*/
+}
+
+           #navgeral ul{
+           display: flex;
+           padding: 0;/*espaçamento interno*/
+           margin: 0;/*espaçamento externo*/
+           width: 70%;/*largura em 70% da pagina*/
+           list-style: none;/*remove marcadores de lista*/
+           color: #f1f1f1; /*cor da fonte*/
+}
+
+          #navgeral ul li{
+          display: flex;
+          flex-direction: row;/*direção do conteúdo*/
+          width: 100%;/*largura do elemento em 100%*/
+          height: 50px;/*algura do elemento*/
+          line-height: 50px;/*alinhamento horizontal*/
+          text-align: center;/*texto centralizado*/
+}
+
+          #navgeral ul li a{
+          width: 100%;/*largura do elemento em 100%*/
+          text-decoration: none;/*remove underline do link*/
+          color: #f1f1f1;
+}
+         #navgeral ul li a:hover{
+         background-color: #055405;/*cor de fundo*/
+         color: #000000;
+}
+
+
+
+     </style>
+
+    <body>
+      <header>
+    <h1>FUTEBOL:PAIXÃO NACIONAL</h1>   
+    <p> <h3>Navegue por aquilo que voce estar a procura entrge restaurantes , hoteis, beleza naturais, etc..</h3></p>
+    <nav id="navgeral"> 
+      <ul>
+          <li><a href="#1" id="rog">ESTADIOS</a></li>
+          <li><a href="#2"id="rog">MELHORES JOGADORES</a></li>
+          <li><a href="#3"id="rog">MELHORES TECNICOS</a></li>
+          <li><a href="#4"id="rog">LANCES INCRIVEIS</a></li>
+      </ul>
+      
+    </table>
+           <img src="saojpg" alt=>
+	    </header>
+
+	
+          <p> 
+	 <cite>
+       <h3>
+       O futebol como um dos principais fenômenos socioculturais do século XXI, é capaz de influenciar diversos segmentos da sociedade (econômico, político, cultural, social, etc.), abarcando uma gama de elementos subjetivos ao homem, como: paixão, emoção, empolgação, expectativa, frustração, etc., levando-o a sentir uma diversidade de reações físicas: suor, lágrimas, sorrisos, tremedeiras, palpitações, expressões faciais, entre outros. Devido a tais características subjetivas, o tema futebol não é fácil de ser analisado ou mensurado fielmente.
+
+    O pesquisador Freitas Júnior (2007), por exemplo, em uma de suas pesquisas, salienta as dificuldades em se trabalhar de forma acadêmica com este tema, por este ser carregado de uma diversidade sentimental, como a paixão, a vergonha, o ressentimento, o ódio, a solidariedade, etc. Para ele, compreendê-los é um grande desafio para o pesquisador das ciências sociais e humanas, pois, comumente, estes sentimentos contradizem as ações racionais, e nas pesquisas, há uma supervalorização da razão sobre a emoção.
+      </h3>   
+	 </cite>
+	   
+
+
+
+     </p>
+            <section>
+              <div id="1">
+                 <h2><a href="https://www.gazetaesportiva.com/campeonatos/libertadores-da-america/6-estadios-brasileiros-podem-sediar-a-final-da-libertadores-2020-veja-a-lista/">ESTADIOS</a> </h2>
+                 <p> <h3>O estádio de futebol é o lugar onde são recebidos os espetáculos, onde as estrelas mostram suas habilidades, ou seja, o local onde também são conquistadas as grandes vitórias, consumadas as derrotas e afins. Enfim, o estádio é o palco do esporte mais popular do mundo. Por vários anos, o histórico Estádio Jornalista Mário Filho, o Maracanã, no Rio de Janeiro, foi o local com a maior capacidade de público, ele tinha aproximadamente 150 mil pessoas. </h3></p>
+              </div>
+             <img src="ESATDIOS.jpg" alt=" estadios brasil ">
+
+
+
+              <div id="2">
+                 <h2><a href="https://www.esportelandia.com.br/futebol/melhor-jogador-do-mundo/"> MELHORES JOGADORES </a></h2>
+                <p><h3> Todos temos nossos jogadores favoritos e brigas sobre quem é o melhor do mundo podem acabar com belas amizades. Então, como podemos decidir quem é o melhor? A cada ano, a FIFA elege o melhor jogador de futebol do mundo. Não dá para agradar a todos mas essa votação reflete o consenso da comunidade desportiva em cada ano.
+
+                 Não são só os homens que se destacam no futebol. As mulheres também jogam profissionalmente. De ambos os lados recordes foram quebrados. Por isso juntamos o melhor homem e a melhor mulher em cada ano.(Não nos responsabilizamos por sentimentos feridos.</h3></p>
+              </div>
+               
+               <img src="melhores joga.jpg" alt="melhores do mundo eleitos pela fifa">
+
+               <div id="3">
+                 <h2>MELHORES TECNICOS</h2>
+                   <p> <h3>A função de técnico de um time de futebol não é nada fácil, muito pelo contrário. Ele possui inúmeras atividades dentro do clube, desde obrigações dentro de campo, como escalação, substituições, formação tática, etc. até funções extra campo, como motivação de seus atletas. Não a toa, o técnico é uma peça crucial para um bom rendimento da equipe.
+
+                   Uma prova muito recente da importância do treinador para o time é o Tite. Quando ele assumiu a seleção brasileira, o time estava extremamente desacreditado e em uma fase muito ruim. Muitos especialistas inclusive diziam que a geração brasileira não era das melhores. Mas em um período curtíssimo de tempo, o ex-treinador do Corinthians trouxe novos ares para a seleção canarinho e o time começou a jogar muito bem e encantar não só o torcedor brasileiro, mas também o mundo.</h3></p>
+              </div>
+               
+                <img src="MELHORES TECNICOS.jpg" alt=" mehores tecnicos atual">
+
+
+              <div id="4">
+                 <h2>LANCES INCRIVEIS</h2>
+                   <p> <h3>melhores lances com os artistas da bola driblando e saindo de seus adversarios <br> e com isso criou varios premios para prmemiar os lances no barsil e no mundo ,<br> e com isso varios jogadors dependete de sua equipe pode levar este premio</h3></p>
+              </div>
+             <img src="lancesIncrives.jpg" alt=" esporte">
+
+            </section> 
+
+            <footer>
+
+              <h3> caso queira se um patrociandor de nosso site entre em contados atraves do endereco de email abixo ou tefelfone , <br> mas caso queira enviei uma mesagem atrves do nosso formulario.</h3>
+
+       <address>
+         <h3>Contato</h3>
+         <p><cite>E-mail: <a href="" alt="Entre em Contato">rogersonsilvasousa@gmail.com</a><br/>
+          Fone: <a href="" alt="Entre em Contato">(63)992751564</a><br/>
+          Social: <a href="" alt="Entre em Contato">Rogerson</a>
+      </address>
+   
+            <form> 
+               <input type="hidden" name="recipient" value=""> <!-- Pode ser qualquer endereço de email -->
+               <input type="hidden" name="redirect" value="https://accounts.google.com/signin/v2/sl/pwd?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=AddSession&cid=0&navigationDirection=forward"> <!-- Após o envio, o usuário será redirecionado para a página configurada aqui -->
+               <input type="hidden" name="subject" value="">  <!-- Assunto da mensagem -->
+               <input type="hidden" name="email" value="rogersonsilvasousa@gmail.com">   <!-- Deve ser uma conta de email ativa em seu domínio -->
+ 
+               <p> 
+               Nome:<br /> 
+                 <input type="text" size="30" name="nome"> 
+               </p>   
+ 
+                <p>
+                  E-mail:<br /> 
+                  <input type="text" size="30" name="replyto"> 
+                 </p>   
+ 
+                <p> 
+                  Comentários:<br /> 
+                   <input type="text" size="35" name="Comentarios"> 
+                 </p>   
+ 
+                  <p> 
+                    <input type="submit" name="BTEnvia" value="Enviar"> 
+                    <input type="reset" name="BTApaga" value="Apagar"> </p> 
+                  </form>
+                  
+              </footer>
+	
+ </body>
+</html>
